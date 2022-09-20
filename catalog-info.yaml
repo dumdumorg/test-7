@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  annotations:
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: library
+  owner: pulp-fiction
