@@ -6,5 +6,6 @@ metadata:
     backstage.io/techdocs-ref: dir:.
 spec:
   type: library
-  lifecycle: stack
+  lifecycle: experimental
+  stack: node
   owner: group:dumdumorg
