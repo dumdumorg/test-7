@@ -2,7 +2,6 @@ apiVersion: backstage.io/v1alpha1
 kind: API
 metadata:
   name: test7
-  description: test7Desc
   annotations:
     backstage.io/techdocs-ref: dir:.
 spec:
