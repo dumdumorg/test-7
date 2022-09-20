@@ -1,2 +1,7 @@
-site_name: test7
-site_description: test7Desc
+site_name: 'test7'
+
+nav:
+  - Home: index.md
+
+plugins:
+  - techdocs-core
